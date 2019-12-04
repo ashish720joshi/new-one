@@ -1,0 +1,8 @@
+[user]
+	name = Jerry Mouse
+	email = joshiashish462@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
